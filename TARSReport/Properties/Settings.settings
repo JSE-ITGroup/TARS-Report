@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TARSReport.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="UserName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">jse_webapps</Value>
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">St0ckExch@ng3</Value>
+    </Setting>
+    <Setting Name="Server" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">10.240.18.202</Value>
+    </Setting>
+    <Setting Name="DatabaseWebRepository" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">WebRepository</Value>
+    </Setting>
+    <Setting Name="DatabaseWebFeedRepository" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">WebFeedRepository</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
